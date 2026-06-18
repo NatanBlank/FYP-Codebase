@@ -29,7 +29,7 @@ f(x)=16, which was one of the benchmark problems studied throughout the project.
 
 ---
 
-### 'poisson_2d_hhl_line_jacobi.py'
+### '2d example.py'
 
 Representative two-dimensional Poisson solver.
 
