@@ -6,8 +6,8 @@ from qiskit.circuit.library.arithmetic.piecewise_chebyshev import PiecewiseCheby
 from qiskit.circuit.library.arithmetic.exact_reciprocal import ExactReciprocal
 
 from qiskit.circuit.library import Isometry
-from numpy_matrix import NumPyMatrix
-from tridiagonal_toeplitz import TridiagonalToeplitz
+from .numpy_matrix import NumPyMatrix
+from .tridiagonal_toeplitz import TridiagonalToeplitz
 
 from qiskit.quantum_info import Statevector
 try:
