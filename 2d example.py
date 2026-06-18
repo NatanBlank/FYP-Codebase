@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 
 from Thomas import thomas
-from HHL.hhl_prototype.solver.hhl import HHL
+from HHL.hhl import HHL
 from qiskit.primitives import StatevectorEstimator, StatevectorSampler
 
 
